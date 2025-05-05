@@ -2,6 +2,7 @@
 
 **Author:** Onyekpandu Chukwuma  
 **Tools Used:** Microsoft Excel (PivotTables, Charts, Slicers)
+![Dashboard]([images/sales-trend.png](https://github.com/Chukwuma-Onyekpandu/Automobile-Sales-Analysis-Two-Year-Report-/blob/main/Vephla%20Excel%20Dashboard%202.png))
 
 ---
 
